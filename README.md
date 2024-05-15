@@ -1,4 +1,4 @@
-## Practical Guidelines (To be simulated using Cisco Packet Tracer):
+## Practical (To be simulated using Cisco Packet Tracer):
     1. Tostudy basic network command and network configuration commands
     2. Tostudy and perform PC to PC communication using ethernet
     3. Tocreate Star topology using hub and switch
